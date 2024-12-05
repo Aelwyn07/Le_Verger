@@ -1,4 +1,4 @@
-### Jeu de société Le Verger - Version numérique personnalisé
+### Jeu de société Le Verger - Version numérique personnalisée
 <br>
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="50%" height="50%">
 <br><br><br>
