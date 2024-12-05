@@ -6,8 +6,8 @@ Projet réalisé en première année de BUT Informatique dans le cadre d'une SAE
 
 #### Technologies utilisées : 
 
-  . Java : langage de programmation orienté objet.
-  . JavaFX : framework permettant la gestion d'interfaces graphiques (affichage d'éléments et interactions).
+  . Java : langage de programmation orienté objet.<br>
+  . JavaFX : framework permettant la gestion d'interfaces graphiques (affichage d'éléments et interactions).<br>
   . JUnit : framework utilisé pour les tests unitaires.
 
 Note :
